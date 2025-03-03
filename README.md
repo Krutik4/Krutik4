@@ -12,7 +12,8 @@ I build scalable solutions that drive actionable insights and efficient operatio
 - **Cloud & DevOps:** AWS, Azure, Airflow, GitLab CI/CD, Linux, Docker  
 - **Machine Learning & AI:** Regression, Classification, Clustering, NLP (LLMs, RAG), Image-Text Retrieval  
 - **Data Visualization:** Power BI (MS Certified Data Analyst), Tableau, Qlik Sense
-- 
+
+
 <!--
 ---
 
