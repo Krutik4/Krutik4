@@ -9,7 +9,7 @@ I build scalable solutions that drive actionable insights and efficient operatio
 
 - **Programming:** Python (pandas, NumPy, scikit-learn, TensorFlow, PyTorch, PySpark, boto3), SQL/MySQL, Java, R  
 - **Data Engineering:** ETL Pipelines, Data Warehousing, Data Modeling, Database Management (MySQL, PostgreSQL, MongoDB, Neo4j)  
-- **Cloud & DevOps:** AWS, Azure, Airflow, GitLab CI/CD, Linux, Docker  
+- **Cloud & DevOps:** AWS, Azure, Airflow, Git, Github, GitLab CI/CD, Jenkins, Linux, Docker, Kubernetes  
 - **Machine Learning & AI:** Regression, Classification, Clustering, NLP (LLMs, RAG), Image-Text Retrieval  
 - **Data Visualization:** Power BI (MS Certified Data Analyst), Tableau, Qlik Sense
 
