@@ -27,7 +27,7 @@ I build scalable solutions that drive actionable insights and efficient operatio
 
 ## Connect
 
-- 📧 [kp7514@rit.edu](mailto:kp7514@rit.edu)
+- 📧 [krutikpanchal44@gmail.com](mailto:krutikpanchal44@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/panchalkrutik)
 
 
